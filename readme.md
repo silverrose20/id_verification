@@ -11,7 +11,7 @@ Let's see how it works.
 4. Hold your IP photo in front of the camera and look at the camera.
 5. If you are holding your photo, you will see "Verified" and green rectangles around the faces.
 
-<img src="https://github.com/silverrose20/id_verification/blob/master/pics/Verified.jpg" height="40%" width="40%">
+<img src="https://github.com/silverrose20/id_verification/blob/master/pics/Verified2.jpg" height="40%" width="40%">
 
 6. If you are holding someone else's photo, you will see "Not Verified" and red rectangles around the faces.
 
