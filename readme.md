@@ -5,17 +5,17 @@ Let's see how it works.
 ## How it works
 1. This is the home page (https://capstonertc-dzvisiwhya-wl.a.run.app).
 
-![Home Screen](pics/home_screen2.jpg)
+<img src="https://github.com/silverrose20/id_verification/blob/master/pics/home_screen2.jpg" height="958" width="550"> 
 2. Get your ID card (a driver's license, passport, etc.) ready.
 3. Click START to connect your webcam. 
 4. Hold your IP photo in front of the camera and look at the camera.
 5. If you are holding your photo, you will see "Verified" and green rectangles around the faces.
 
-<img src="https://github.com/silverrose20/id_verification/blob/master/pics/Verified.jpg" width="442" width="358">
+<img src="https://github.com/silverrose20/id_verification/blob/master/pics/Verified.jpg" height="442" width="358">
 
 6. If you are holding someone else's photo, you will see "Not Verified" and red rectangles around the faces.
 
-<img src="https://github.com/silverrose20/id_verification/blob/master/pics/NotVerified.jpg" width="442" width="358">
+<img src="https://github.com/silverrose20/id_verification/blob/master/pics/NotVerified.jpg" height="442" width="358">
 
 7. Click STOP to close the video screen.
 
