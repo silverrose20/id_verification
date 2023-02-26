@@ -1,5 +1,5 @@
 ## What is this?
-This is a web-based ID Verification application. It uses webrtc to capture a video from your webcam. Your face and your face in the ID photo are captured, and they will be identified as either the same person or different people.
+This is a web-based ID Verification application. It uses webrtc to capture a video from your webcam. It detects your face and your face in the ID photo and compares them. It will verify your ID if the two faces are identifies as the same person.
 
 ## How it works
 1. This is the home page (https://capstonertc-dzvisiwhya-wl.a.run.app).
