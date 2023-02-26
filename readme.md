@@ -1,11 +1,11 @@
 ## What is this?
-This is a web-based ID Verification application. It uses webrtc to capture a video from your webcam. 
-Let's see how it works.
+This is a web-based ID Verification application. It uses webrtc to capture a video from your webcam. Your face and your face in the ID photo are captured, and they will be identified as either the same person or different people.
 
 ## How it works
 1. This is the home page (https://capstonertc-dzvisiwhya-wl.a.run.app).
 
 <img src="https://github.com/silverrose20/id_verification/blob/master/pics/home_screen2.jpg" height="50%" width="50%"> 
+
 2. Get your ID card (a driver's license, passport, etc.) ready.
 3. Click START to connect your webcam. 
 4. Hold your IP photo in front of the camera and look at the camera.
