@@ -15,7 +15,7 @@ Let's see how it works.
 
 6. If you are holding someone else's photo, you will see "Not Verified" and red rectangles around the faces.
 
-<img src="https://github.com/silverrose20/id_verification/blob/master/pics/NotVerified.jpg" height="442" width="358">
+<img src="https://github.com/silverrose20/id_verification/blob/master/pics/NotVerified.jpg" height="527" width="430">
 
 7. Click STOP to close the video screen.
 
