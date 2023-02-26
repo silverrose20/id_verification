@@ -8,7 +8,7 @@ This is a web-based ID Verification application. It uses webrtc to capture a vid
 
 2. Get your ID card (a driver's license, passport, etc.) ready.
 3. Click START to connect your webcam. 
-4. Hold your IP photo in front of the camera and look at the camera.
+4. Hold your ID photo in front of the camera and look at the camera.
 5. If you are holding your photo, you will see "Verified" and green rectangles around the faces.
 
 <img src="https://github.com/silverrose20/id_verification/blob/master/pics/Verified2.jpg" height="40%" width="40%">
